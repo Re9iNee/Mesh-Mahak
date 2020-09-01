@@ -1,0 +1,15 @@
+{"time":{"$$date":1598873782147},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":1,"_id":"5ajgaDAsjmY02RtK"}
+{"time":{"$$date":1598870508008},"nodeid":"*","power":0,"s":1,"_id":"DhRn0NqXLx5PRjh9"}
+{"time":{"$$date":1598872805927},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":1,"_id":"PVIk1whGD33cvCNx"}
+{"time":{"$$date":1598872747242},"nodeid":"*","power":0,"s":1,"_id":"UvzU4QLdj9T0otwu"}
+{"time":{"$$date":1598873777880},"nodeid":"*","power":0,"s":1,"_id":"cOVeZqVWotG3qogM"}
+{"time":{"$$date":1598873703302},"nodeid":"*","power":0,"s":1,"_id":"gQgOx6LCeUgKLdR3"}
+{"time":{"$$date":1598873706682},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":1,"_id":"qVffZpDY6n2rg9fw"}
+{"$$indexCreated":{"fieldName":"nodeid","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"time","unique":false,"sparse":false}}
+{"time":{"$$date":1598940667248},"nodeid":"*","power":0,"s":1,"_id":"4yJhiT2W3sXl5cGG"}
+{"time":{"$$date":1598940670766},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":1,"_id":"uNrezXlwNzYgiX4w"}
+{"time":{"$$date":1598942276713},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":0,"oldPower":1,"_id":"PwNuOwBO0IpY67cG"}
+{"time":{"$$date":1598942293770},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":1,"_id":"4tHaXhZ2tMsWMxO7"}
+{"time":{"$$date":1598942389914},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":0,"oldPower":1,"_id":"dqDYK7qa1YIBGSb8"}
+{"time":{"$$date":1598942395821},"nodeid":"node//$BwUhoqXS5cVr6byxM4RmeqFluCFaKXtY9Khb3T620RdyUp$m9cpf3aElRX3x3qU","power":1,"_id":"YrOoVwjLG81zHEGb"}
